@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-fca-shorts",
+  "version": "0.1.0",
+  "description": "FCA UK short-position disclosures — the Financial Conduct Authority",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-fca-shorts": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "fca-shorts"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-fca-shorts.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-017aa53da86391345e2707d0c45263dbfdb08efaf1734a32d147f0e945474071",
+    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+  }
+}
