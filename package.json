@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fca-shorts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FCA UK short-position disclosures — the Financial Conduct Authority",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-017aa53da86391345e2707d0c45263dbfdb08efaf1734a32d147f0e945474071",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-94fb16ab1049dfb45044366c230a36086219af35a57c33a5e5eb14077c27d761",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
