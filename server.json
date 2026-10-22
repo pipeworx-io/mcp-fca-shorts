@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/fca-shorts",
   "title": "Fca Shorts",
-  "description": "FCA UK short-position disclosures — the Financial Conduct Authority",
-  "version": "0.1.1",
+  "description": "FCA UK short-position disclosures — the Financial Conduct Authority (fca.org.uk) publishes a daily…",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/fca-shorts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-fca-shorts",
