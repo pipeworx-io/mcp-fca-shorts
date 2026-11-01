@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fca-shorts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FCA UK short-position disclosures — the Financial Conduct Authority (fca.org.uk) publishes a daily updated file of net short positions disclosed under the UK Short Selling Regulations 2025 regime (the post-onshoring successor to UK SSR 2012, itself derived from EU SSR 236/2012).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "fca-shorts",
     "gatewaySlug": "fca-shorts",
-    "sourceHash": "v1-af8f6e79a81bd731ca1a1a5800b4f580eb31d5c8b92fdad8ba7e39e98ab3e770",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-9405394a21548a649bb0cff1c05ea83ff73ffcd3fb045ce4d92e4bb85cf1b514",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
